@@ -15,6 +15,7 @@ More than 15 years of experience in the IT industry.
 
 [ProvingGrounds](https://portal.offensive-security.com/sign-up/pg)
 
+[HackerOne](https://hackerone.com/mzdaemon?type=user)
 
 
 ## Certification
