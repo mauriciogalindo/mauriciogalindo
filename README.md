@@ -2,9 +2,8 @@
 
 
 ## About me
-I'm a Senior Data Protection/Recovery Consultant/Specialist with more than 15 years of experience.
-And a Security Researcher Penetration Tester where I spend my time researching security flaws.
-Here I will constribute by posting security tools and code that I have developed.
+I'm a Senior Data Protection/Recovery Consultant/Specialist and a Security Researcher Penetration Tester where I spend my time researching security flaws.
+More than 15 years of experience in the IT industry.
 
 ## Contact
 [HacktheBox](https://app.hackthebox.com/profile/407317/)
