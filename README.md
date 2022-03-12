@@ -4,7 +4,7 @@
 ## About me
 I'm a Senior Data Protection/Recovery Consultant/Specialist with more than 15 years of experience.
 
-I'm also a Researcher Penetration Tester where I spend my time researching security flaws and developing my Offensive Security skills.
+I'm also a Researcher Penetration Tester where I spend my time researching security flaws.
 Here I will constribute by posting security tools and code that I have developed.
 
 ## Contact
