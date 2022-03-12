@@ -13,6 +13,8 @@ More than 15 years of experience in the IT industry.
 
 [TryHackMe](https://tryhackme.com/p/mzdaemon)
 
+[ProvingGrounds](https://portal.offensive-security.com/sign-up/pg)
+
 
 
 ## Certification
