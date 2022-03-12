@@ -6,11 +6,13 @@ I'm a Senior Data Protection/Recovery Consultant/Specialist and a Security Resea
 More than 15 years of experience in the IT industry.
 
 ## Contact
+[Linkedin](https://www.linkedin.com/in/mauriciogalindo)
+
+## I'm on Hacking Platforms
 [HacktheBox](https://app.hackthebox.com/profile/407317/)
 
 [TryHackMe](https://tryhackme.com/p/mzdaemon)
 
-[Linkedin](https://www.linkedin.com/in/mauriciogalindo)
 
 
 ## Certification
